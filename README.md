@@ -1,6 +1,6 @@
 # SIEM-Azure-Homelab-Project
 
-My project to gain some practical experience with a SIEM and Log Analysis Software.
+My project to gain some practical experience with a SIEM.
 
 
 ![azure](https://github.com/Carumaa/SIEM-Azure-Homelab-Project/assets/159230612/8b670948-d1c4-4de4-820c-c571d14672ae)
